@@ -29,5 +29,5 @@ if answer.lower()=='yes':
 print('Thankyou for Playing this small quiz game, you attempted',score,"questions correctly!")
 mark=(score/total_questions)*100
 print('Marks obtained:',mark)
-print('BYE!')
+print('Bye!')
 
