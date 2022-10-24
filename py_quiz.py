@@ -25,14 +25,14 @@ if answer.lower()=='yes':
     answer=input('Question 3: What is the name of your favourite website for learning Python?')
     if answer.lower()=='askpython':
         score += 1
-        print('correct')
+        print('Correct Answer')
     else:
         print('Wrong Answer :(')
  #Thankyou
 print('Thankyou for Playing this small quiz game, you attempted',score,"questions correctly!")
 mark=(score/total_questions)*100
-print('Marks obtained:',mark)
-print('Bye!')
+print('Marks obtained :',mark)
+print('Bye!!')
 
 # Exit window
 print('BYE!')
